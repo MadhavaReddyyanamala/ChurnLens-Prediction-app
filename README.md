@@ -2,7 +2,7 @@
 An end-to-end Machine Learning web application that predicts whether a customer is likely to churn, built with a modern UI and deployed using Streamlit on Hugging Face.
 
 # 🌐 Live Demo
-👉 https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE
+👉 [https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE](https://huggingface.co/spaces/mad0030/ChurnLens)
 
 # 🧠 Problem Statement
 Customer churn is a major challenge for businesses. This project predicts customer churn based on behavioral and billing data, helping companies take proactive actions to retain customers.
