@@ -2,7 +2,7 @@
 An end-to-end Machine Learning web application that predicts whether a customer is likely to churn, built with a modern UI and deployed using Streamlit on Hugging Face.
 
 # 🌐 Live Demo
-👉 [https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE](https://huggingface.co/spaces/mad0030/ChurnLens)
+👉 https://huggingface.co/spaces/mad0030/ChurnLens
 
 # 🧠 Problem Statement
 Customer churn is a major challenge for businesses. This project predicts customer churn based on behavioral and billing data, helping companies take proactive actions to retain customers.
@@ -41,7 +41,7 @@ Result is displayed with probability
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c871c82-ed35-4c9a-a282-ed284d68d4db" />
 
 # 📦 Installation (Run Locally)
-git clone [https://github.com/YOUR-USERNAME/churn-prediction-app.git](https://github.com/MadhavaReddyyanamala/ChurnLens-Prediction-app/blob/main/app.py)
+git clone https://github.com/MadhavaReddyyanamala/ChurnLens-Prediction-app/blob/main/app.py
 cd churn-prediction-app
 pip install -r requirements.txt
 streamlit run app.py
