@@ -41,7 +41,7 @@ Result is displayed with probability
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c871c82-ed35-4c9a-a282-ed284d68d4db" />
 
 # 📦 Installation (Run Locally)
-git clone https://github.com/YOUR-USERNAME/churn-prediction-app.git
+git clone [https://github.com/YOUR-USERNAME/churn-prediction-app.git](https://github.com/MadhavaReddyyanamala/ChurnLens-Prediction-app/blob/main/app.py)
 cd churn-prediction-app
 pip install -r requirements.txt
 streamlit run app.py
